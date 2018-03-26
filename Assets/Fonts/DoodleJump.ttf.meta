@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 359952eed08b8c44ca4f0cac4979ee02
+timeCreated: 1521647413
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DoodleJump
+  fontNames:
+  - DoodleJump
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
