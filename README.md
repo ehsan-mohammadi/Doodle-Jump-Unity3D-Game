@@ -2,6 +2,8 @@
 
 > C# Game Development in Unity®
 
+![image](https://github.com/ehsan-mohammadi/Doodle-Jump-Unity3D-Game/blob/master/Image/Image.gif)
+
 Doodle Jump is a sample project that made with Unity® game engine in C#.
 
 This project have been built in Unity 5.5.1f1.
